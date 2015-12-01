@@ -47,7 +47,7 @@ q:before, q:after {
 
 body {
     background-color: #d4d0c6;
-    background-image: url(img/canvas-texture.jpg);
+    background-image: url("../img/canvas-texture.jpg");
     font-family: 'Spinnaker', sans-serif;
     color: #282828;
 }
