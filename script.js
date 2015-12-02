@@ -5,8 +5,6 @@ $('input#submit').click(function(e){
 $('.submit-message').show();
 });
 
-
-
 $('.submit-message').hide();
 
 
